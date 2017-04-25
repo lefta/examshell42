@@ -1,0 +1,14 @@
+python-krbV == 1.0.90
+requests == 2.6.0
+urllib3 == 1.10.2
+netaddr == 0.7.14
+strict_rfc3339 == 0.5
+termcolor == 1.1.0
+attrdict == 2.0.0
+requests_kerberos == 0.6.1
+ndg_httpsclient == 0.3.3
+readline == 6.2.4.1
+gnureadline == 6.3.3
+ipython == 3.0.0
+pyasn1 == 0.1.7
+Unidecode == 0.4.17

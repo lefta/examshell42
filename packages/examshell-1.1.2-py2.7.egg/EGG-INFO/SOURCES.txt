@@ -1,0 +1,11 @@
+setup.py
+bin/.ropeproject
+bin/examshell
+bin/examshell-cli.py
+examshell/__init__.py
+examshell/version.py
+examshell.egg-info/PKG-INFO
+examshell.egg-info/SOURCES.txt
+examshell.egg-info/dependency_links.txt
+examshell.egg-info/not-zip-safe
+examshell.egg-info/top_level.txt
